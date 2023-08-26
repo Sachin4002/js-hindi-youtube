@@ -11,4 +11,5 @@ console.log([accountEmail,accountId,accountCity,accountPassword,accountState]);
 
 console.table([accountEmail,accountId,accountCity,accountPassword,accountState]);
 
-
+ /*prefer not to use VAR
+ because of block scope and functional scope */
